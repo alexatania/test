@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(introduce("Sheryl"));
-        System.out.println("I am " + age() + ".");
+        System.out.println("I amss " + age() + ".");
     }
 
     private static String introduce(String name) {
